@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c65cc3623b2d3f40a4e4d4087048ec1, type: 3}
+  m_Name: Catolic DCU Item 0
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemId: 15
+  itemName: "\uC2ED\uC790\uAC00 "
+  itemDesc: "\uC131\uC2A4\uB7EC\uC6B4 \uC2ED\uC790\uAC00, \uC2ED\uC790\uAC00\uAC00
+    \uC2E0\uD559 \uB514\uCFE0\uB97C \uB9F4\uB3C8\uB2E4.\n\uACF5\uACA9\uB825 {0}%
+    \uC99D\uAC00\n\uC2ED\uC790\uAC00 {1}\uAC1C \uCD94\uAC00"
+  itemIcon: {fileID: 21300000, guid: ba59affb7884e3545943607072c18f5d, type: 3}
+  baseDamage: 4.5
+  baseCount: 3
+  damages:
+  - 0.5
+  - 1
+  - 1.5
+  - 2
+  - 3
+  counts: 0100000001000000010000000100000002000000
+  projectile: {fileID: 614163709734934193, guid: f8a87b12e9f58824ea6f0ee94295083d, type: 3}
+  hand: {fileID: 143021600, guid: 0d5e657ee5a074e4baa53d5b248a01d2, type: 3}
